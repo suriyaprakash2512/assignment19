@@ -1,0 +1,10 @@
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\bin\Debug\RealAlgebra.exe
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\bin\Debug\RealAlgebra.pdb
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\bin\Debug\ShapAreaLib.dll
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\bin\Debug\ShapAreaLib.pdb
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\obj\Debug\RealAlgebra.exe
+C:\Users\SuriyaPrakash\source\repos\Assignment19\RealAlgebra\obj\Debug\RealAlgebra.pdb

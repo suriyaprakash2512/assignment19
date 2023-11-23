@@ -1,0 +1,6 @@
+C:\Users\SuriyaPrakash\source\repos\Assignment19\ShapAreaLib\bin\Debug\ShapAreaLib.dll
+C:\Users\SuriyaPrakash\source\repos\Assignment19\ShapAreaLib\bin\Debug\ShapAreaLib.pdb
+C:\Users\SuriyaPrakash\source\repos\Assignment19\ShapAreaLib\obj\Debug\ShapAreaLib.csproj.AssemblyReference.cache
+C:\Users\SuriyaPrakash\source\repos\Assignment19\ShapAreaLib\obj\Debug\ShapAreaLib.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\Assignment19\ShapAreaLib\obj\Debug\ShapAreaLib.dll
+C:\Users\SuriyaPrakash\source\repos\Assignment19\ShapAreaLib\obj\Debug\ShapAreaLib.pdb
